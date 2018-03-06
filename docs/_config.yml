@@ -11,8 +11,8 @@ title                    : "Recon Village 2017"
 title_separator          : "-"
 name                     : &name "Recon Village 2017" # &name is a YAML anchor which can be *referenced later
 description              : &description "An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaissance."
-url                      : / # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : http://reconvillage.github.io
+baseurl                  : "/2017" # the subpath of your site, e.g. "/blog"
 repository               : "reconvillage/2017"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
