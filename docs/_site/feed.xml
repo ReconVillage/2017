@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-06T11:48:20-05:00</updated><id>http://localhost:4000/</id><title type="html">Recon Village 2017</title><subtitle>An Open Space with Talks, Live Demos, Workshops, Discussions, CTFs with a common focus on Reconnaissance.</subtitle><author><name>Recon Village 2017</name><uri>http://2017.reconvillage.org</uri></author><entry><title type="html">Workshops</title><link href="http://localhost:4000/workshops/" rel="alternate" type="text/html" title="Workshops" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/workshops</id><content type="html" xml:base="http://localhost:4000/workshops/">{% include toc title=&quot;List of Talks&quot; icon=&quot;file-text&quot; %}
+
+We are pleased to announce we will be hosting hands on workshops on 29th July (morning and evening). These workshops will be hands-on in nature and will require you to bring in a Laptop with you where you can practise (if you want to). These workshops are completely free.
+
+
+### Intro to OSINT: Zero on the way to Hero
+by *[@C_3PJoe](https://twitter.com/C_3PJoe)*
+
+OSINT can be ones worst enemy or best friend, depending on what angle the person is looking at it from. This introduction level workshop will start out discussing the basis of OSINT then transition into applicable use case scenarios. Once we have a sound foundation in OSINT, we’ll start to work on some collection considerations and techniques. 
+
+In terms of tools used in this presentation, the list is somewhat fluid based upon the advancement of other tools, social media platforms, or other variables. Tools intended to be highlighted are: OSINTFramework.com, Inteltechniques.com, Buscador Linux, Recon-ng, Datasploit, APIs (Twitter and possibly Facebook; maybe others), haveibeenpwned. Cree.py, whois, persona generator, and others.
+
+Depending on your position, this talk with either arm you with the right tools to build better OSINT engagements, whether for phishing or other investigations or educate you on steps you can take to better secure yourself.
+
+&lt;div markdown=&quot;0&quot;&gt;&lt;a href=&quot;/intro-to-osint-workshop/&quot; class=&quot;btn btn--success&quot;&gt;More Details..&lt;/a&gt;&lt;/div&gt;
+
+
+### Burner Phone Challenge
+by *[@jerkota](https://twitter.com/jerkota)*
+
+Once upon a time, I saw this tweet from Kenneth Lipp: https://twitter.com/kennethlipp/status/848566661384990722. In summary, the tweet is about an AT&amp;T program available to law enforcement meant to make burner phones meaningless. Even if someone switches phones, if their pattern of behavior (both in terms of contacts and call locations) stays the same or similar, AT&amp;T can determine that it's the same person simply using a new phone. 
+
+This seems like a great teaching opportunity! Attendees at this workshop will build the same analytics as AT&amp;T does, using Python on some &quot;phone metadata&quot; created just for you to play with. You'll be able to
+find burner phones in the mess, and hopefully learn some fun network analysis, machine learning, and Python programming skills along the way!
+
+&lt;div markdown=&quot;0&quot;&gt;&lt;a href=&quot;/burner-phone-challenge/&quot; class=&quot;btn btn--success&quot;&gt;More Details..&lt;/a&gt;&lt;/div&gt;</content><author><name>Recon Village 2017</name><uri>http://2017.reconvillage.org</uri></author><summary type="html">List of Talks</summary></entry><entry><title type="html">Using phonetic algorithms to increase your search space and detect misspellings.</title><link href="http://localhost:4000/using-phenotic-algorithms-to-increase-your-search/" rel="alternate" type="text/html" title="Using phonetic algorithms to increase your search space and detect misspellings." /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/using-phenotic-algorithms-to-increase-your-search</id><content type="html" xml:base="http://localhost:4000/using-phenotic-algorithms-to-increase-your-search/"># Abstract
+
+&gt; In this talk I will give a brief introduction to phonetic algorithms and how they can apply to searching through social media data and other domains. I will then demonstrate applying these techniques to a US Census dataset, and generate a searchable dataset capable of suggesting alternative spellings and pronunciations of names. I will finish by talking about how we can detect potentially malicious domains using these techniques.
+
+# Speaker Profile
+
+Alex Kahan is a software engineer in the DC area. Before joining Endgame, Alex worked as a research and development engineer at the social media cyber security company ZeroFOX. You can find most of his work on [github](https://github.com/alexk307)</content><author><name>upgoingstar</name></author><summary type="html">mm</summary></entry><entry><title type="html">Using DFIR Orchestration and Automation Tools and Playbooks For OSINT and Recon</title><link href="http://localhost:4000/using-dfir-orchestration-and-automation/" rel="alternate" type="text/html" title="Using DFIR Orchestration and Automation Tools and Playbooks For OSINT and Recon" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/using-dfir-orchestration-and-automation</id><content type="html" xml:base="http://localhost:4000/using-dfir-orchestration-and-automation/"># Abstract
+
+&gt; Everyone has probably heard about orchestration and automation tools in DFIR but what if we took the same concepts from DFIR and apply that to OSINT? In this talk we will discuss how to use DFIR tools and concepts for reconnaissance, investigations, and OSINT data gathering. We will work through an automated playbook to gather evidence on things like domains, organizations and people, then discuss using integrations like Intrigue.io, Pipl, DataSploit, and more all in parallel and finally wrapping up by storing the evidence, contacting, liberating and helping others by responding with the evidence, or simply just having some fun.
+
+
+# Speaker Profile
+
+[http://www.demisto.com](http://www.demisto.com)
+[https://www.linkedin.com/in/tyler/](https://www.linkedin.com/in/tyler/ )
+
+14+ Years or some **** in Cyber (Previously known as Information Security).I have #NoCerts yet but seems like thats whats trendy these days. Been going to DefCon since before the Rio days where I first learned about LockPicking and just wished I could give some #AwkwardHugs&quot;</content><author><name>upgoingstar</name></author><summary type="html">mm</summary></entry><entry><title type="html">Skip tracing for fun and profit</title><link href="http://localhost:4000/skip-tracing-for-fun-and-profit/" rel="alternate" type="text/html" title="Skip tracing for fun and profit" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/skip-tracing-for-fun-and-profit</id><content type="html" xml:base="http://localhost:4000/skip-tracing-for-fun-and-profit/"># Abstract
+
+&gt; This talk covers skip tracing TTPs and countermeasures in the digital and human domains. The audience will be guided through two real world examples of how a regular citizen can use open source tools, exploits, and social engineering to assist law enforcement and profit. 
+
+&gt; Some examples include phishing websites tailored to a fugitive’s resume, geolocating a target through video game clients, and using social media meta-data to build pattern-of-life. As the audience is moved through the process step by step, online and offline countermeasure such as USPS forwarding, false resume writing, and secure communications will also be covered. 
+
+
+
+# Speaker Profile
+
+[Rhett Greenhagen](https://www.linkedin.com/in/greenhagen/) has worked in the NetSec/IC for over a decade. He specializes in open source intelligence, cyber counter-intelligence, profiling, exploitation, malware analysis, and technical research and development. Career highlights include Primary Forensic Investigator for the DoD’s largest data center as well as senior technical positions for multiple defense contracting companies. Rhett is currently working for the Advanced Programs Group at McAfee.</content><author><name>upgoingstar</name></author><summary type="html">mm</summary></entry><entry><title type="html">OSINT Tactics on Source Code &amp;amp; Developers</title><link href="http://localhost:4000/osint-tactics-on-source-code-and-developers/" rel="alternate" type="text/html" title="OSINT Tactics on Source Code &amp; Developers" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/osint-tactics-on-source-code-and-developers</id><content type="html" xml:base="http://localhost:4000/osint-tactics-on-source-code-and-developers/">&lt;center&gt;
+&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/gX2OKGiz6D2Nxp&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;&lt;/center&gt;
+
+# Abstract
+
+&gt; This practical talk is about using OSINT techniques and tools to obtain intelligence from source code. By analyzing the source code, we will profile developers in social networks to see what social networks they use, what they are saying, who they follow, what they like and much more data about them.  
+
+&gt; We will use well-known tools and custom Python scripts to automatize the parsing of source code, analyzing comments for behavior and sentiments, searching for OSINT patterns in code and fingerprinting developers in social networks, among other things. The collected data will be plotted in different visualizations to make the understanding of information easier.  
+
+&gt; The objective of the talk is to introduce attendees into OSINT tactics they can use to collect and analyze data, use the right tools and automatize tasks with Python scripting. For this example we have targeted developers and their projects. 
+
+&gt; Come and learn some OSINT tricks you can apply to collect and analyze data!
+
+
+# Speaker Profile
+
+Simon Roses [(@simonroses)](https://twitter.com/simonroses) holds a B.S. from Suffolk University (Boston), Postgraduate in E-Commerce from Harvard University (Boston) and Executive MBA from IE Business School (IE, Madrid).
+
+Currently is the CEO at VULNEX, driving security innovation. Former Microsoft, PriceWaterhouseCoopers and @Stake.
+
+Simon has authored and cooperated in several security Open Source projects like OWASP Pantera and LibExploit. He has also published security advisories in commercial products.
+
+Simon was award with a DARPA Cyber Fast Track (CFT) grand to research on application security. 
+
+Frequent speaker at security industry events including BLACKHAT, DEF CON, RSA, HITB, OWASP, SOURCE. DeepSec and Microsoft Security Technets.  
+CISSP, CEH &amp; CSSLP
+
+Blog: www.simonroses.com</content><author><name>upgoingstar</name></author><summary type="html">mm</summary></entry><entry><title type="html">FERPA: Only Your Grades Are Safe; OSINT In Higher Education</title><link href="http://localhost:4000/only-your-grades-are-safe-osint-in-higher-education/" rel="alternate" type="text/html" title="FERPA: Only Your Grades Are Safe; OSINT In Higher Education" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/only-your-grades-are-safe-osint-in-higher-education</id><content type="html" xml:base="http://localhost:4000/only-your-grades-are-safe-osint-in-higher-education/">&lt;center&gt;
+&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/nUiV5WqgnLzmTk&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt; &lt;/center&gt;
+
+# Abstract
+
+&gt; Institutions of higher education are supposed to be somewhere that students go, earn a degree, and leave, all while their data is safe.  Or is it?  In this talk, I discuss the gaping security holes left by FERPA (Family Educational Rights and Privacy Act (20 U.S.C. § 1232g; 34 CFR Part 99) with regard to student data.  Almost all student data, with the exception of grades and select demographics picked by each institution, are commonly listed as directory information that is available to anyone who asks.  Add to this most institutions of higher education commonly practice automatic “opt-in” for Directory Information and require students to specifically request that their information be withheld.  This leads to an OSINT opportunity ripe for abuse.  
+
+&gt; However, that is not the only issue.  Due to a loophole in the way medical records are handled at institutions of higher education, these records can lose almost all protections and become classified as Directory Information.  
+
+&gt; I show examples of how easily this information can be retrieved from several institutions and what sort of information is available from many institutions.  At the conclusion of the talk, I illustrate the various ways this information can be potentially used against a victim or in the construction of a false identity.
+
+
+# Speaker Profile
+
+Leah Figueroa [(@Sweet_Grrl)](https://twitter.com/Sweet_Grrl) is a 13 year veteran of the data analytics field and works as a data analyst in higher education.  She holds a Master’s in Education, an ABD in research psychology, and has taught kindergarten.  
+
+A data aficionado, Leah focuses on research on improving student outcomes at the higher education level, including focusing on both minority student issues as well as issues pertaining to students who come from a background of poverty.  While not at work, Leah is interested in increasing data security in the higher education sphere as well as improving blue teams by helping bring data analytics into the team.  Leah also enjoys being a fiber artist (knitter) and loves cats, InfoSec, picking locks, cooking, and reading.</content><author><name>upgoingstar</name></author><summary type="html">mm</summary></entry><entry><title type="html">Keynote: It’s Going To Get Worse Before It Gets Better - The Future of Recon Data Mining</title><link href="http://localhost:4000/keynote/" rel="alternate" type="text/html" title="Keynote: It’s Going To Get Worse Before It Gets Better - The Future of Recon Data Mining" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/keynote</id><content type="html" xml:base="http://localhost:4000/keynote/">&gt; The OSINT and reconnaissance landscape is beginning to face some challenges. Current valuable sources such as open sourced lists are already facing offensive and malicious data poisoning. Privacy laws are creating barriers in many areas, and as court rulings are levying increasing fines for playing fast and loose with user data privacy. Social media companies are starting to realize that they actually need to start making profits, and are restricting their data. 
+
+&gt; Sites are aggressively combating web crawling, services like TOR and VPN face uncertain futures, the list of potential hurdles to the future of OSINT and recon seems grim. But fear not. There is still hope - and plenty of it. This presentation will discuss both the challenges and changes to both offensive and defensive reconnaissance that the presenter believes we will see in the future, and strategies that will help mitigate or enhance these changes.
+
+# Speaker Profile
+
+Shane MacDougall *[tactical_intel](https://twitter.com/tactical_intel)* is a two-time winner of the Defcon Social Engineering Capture The Flag, and has placed in the top three of the attack portion in every year of the contest's existence. He is a principal partner in Tactical Intelligence, a boutique InfoSec consulting firm in Canada that specializes in social engineering, corporate information gathering, and red team attacks. Mr. MacDougall started in the computer security field in 1989 as a penetration tester with KPMG, and worked on the attacking side of the field until 2002, when he joined ID Analytics, the world's largest anti-identity theft detection company as the head of information security. In 2011 he left the firm to start his own company. Mr. MacDougall has presented at several security conferences, including BlackHat EU, BSides Las Vegas, DerbyCon, LASCON, and ToorCon. He is currently doing research in the areas of integrating near-realtime OSINT into IDS/SIEM, as well as the generation of a real-time pre-text generator.</content><author><name>upgoingstar</name></author><summary type="html">mm</summary></entry><entry><title type="html">Intro to OSINT: Zero on the way to Hero</title><link href="http://localhost:4000/intro-to-osint-workshop/" rel="alternate" type="text/html" title="Intro to OSINT: Zero on the way to Hero" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/intro-to-osint-workshop</id><content type="html" xml:base="http://localhost:4000/intro-to-osint-workshop/"># Abstract
+
+&gt; OSINT can be ones worst enemy or best friend, depending on what angle the person is looking at it from. This introduction level workshop will start out discussing the basis of OSINT then transition into applicable use case scenarios. Once we have a sound foundation in OSINT, we’ll start to work on some collection considerations and techniques. 
+
+&gt; In terms of tools used in this presentation, the list is somewhat fluid based upon the advancement of other tools, social media platforms, or other variables. Tools intended to be highlighted are: OSINTFramework.com, Inteltechniques.com, Buscador Linux, Recon-ng, Datasploit, APIs (Twitter and possibly Facebook; maybe others), haveibeenpwned. Cree.py, whois, persona generator, and others.
+
+&gt; Depending on your position, this talk with either arm you with the right tools to build better OSINT engagements, whether for phishing or other investigations or educate you on steps you can take to better secure yourself.
+
+Detailed talk outline :
+Hour 1
+* Intro 
+* What is Open Source Intelligence (OSINT)? 
+  * Outlets/Sources Starts by giving definition of OSINT and introduces Michael Bazzell. This moves on into places to gather and discusses software like Datasploit and Recon-ng (demonstrated later) as sources per se.
+  * Methods This discusses things on the internet: job boards, forums, Google, Intel Techniques and OSINT Framework (demonstrated later) as well as other outlets. From here we discuss automation in terms of tools, prextexting, and search parameters.
+  * Aims and goals Simply put, is to gather as much information about our target as we can. I talk about timing for the purpose of explanation. We look at some examples of easy wins and start the integration. 
+* Basis of OSINT 
+  * Info sources This discusses the similarities in the information gathering.
+  * Uses of collected data (generalization) Here, I talk about making the OSINT actionable via contact with the target and having better context. Other goodies to be discovered is also discussed.
+* Collecting OSINT 
+  * That first tidbit of data I explain that most OSINT starts with something minor: a name, phone number, email address, user name, physical address, meta data. I talk about “harmless surveys”
+  * Unwinding the web From here, I show what comes next with the tidbit and the snowball effect. I talk about the correlation of information and the ease in building a profile on you.
+  * Rinse and Repeat Several rounds may be required. You may find something interesting towards the end that causes you to look at everything again from a different angle. 
+* Integrations to/from OSINT 
+  * Applying the OSINT for SE Attacks 
+    * Dr. Cialdini’s 6 Principles of Persuasion I reiterate the 6 principles and provide more in-depth analysis of the application of them based on collected OSINT. The next step is applying the principles to each type of attack:
+    * Phishing
+    * Vishing
+    * Social Media
+    * Pretexting and impersonation
+    * knowledge. This is not placing the burden on them, but empowering them to contribute from the trenches.
+  * Attribution
+    * Using tools like OnionScan to pinpoint correlations in onion sites to regular sites to identify the sources of malware
+  * Investigations
+    * Use by Law Enforcement or other entities to find information about a target
+  * Marketing and Sales
+    * How these entities leverage OSINT data to better market and sell to you
+* Demo OSINTFramework.com 
+  * Show how to dig for more tidbits This will include using OSINTFramework more thoroughly than in the talk. I will demonstrate some of the capabilities in searching for user names, reverse phone searches, address searching, and Social Media mapping for sentiment.
+* Break (50:00)
+    * Hour 2 
+* OSINT on a car back windshield 
+* Demo IntelTechniques.com 
+  * Show how to do more mass scanning for various data using the IntelTechniques Tools This will include using IntelTechniques more thoroughly than in the talk. I will demonstrate some of the capabilities in searching for user names, reverse image searches, reverse video searches, YouTube, Pastebins, Satellite Views, and Social Traffic.
+  * I will discuss Michael Bazzell’s books, blog, and podcast as a reference point.
+* Collection Considerations 
+  * End Game
+  * Ethics
+  * Legality
+  * Protecting the data
+* Demo of tools 
+* Questions 
+
+
+
+# Speaker Profile
+
+Joe Gray [(@C_3PJoe)](https://twitter.com/C_3PJoe) joined the U.S. Navy directly out of High School and served for 7 years as a Submarine Navigation Electronics Technician. Joe is an Enterprise Security Consultant at Sword &amp; Shield Enterprise Security in Knoxville, TN. Joe also maintains his own Blog and Podcast called Advanced Persistent Security. In his spare time, Joe enjoys reading news relevant to information security, attending information security conferences, contributing blogs to various outlets, bass fishing, and flying his drone. He is currently progressing his DFIR skills through Data Carving and Malware Analysis and Reverse Engineering.
+
+I have spoken/presented at the following (All 2017):, BSides Hunstville (Last minute alternate), (ISC)² Atlanta, BSides Indy, (ISC)² Middle TN, Infosec Southwest , BSides Nashville, BSides Charm (Baltimore), BSides Knoxville, BSides Cincy, Dc865 (Knoxville TN Defcon chapter).
+
+Here are some links to my talks:
+* [http://www.irongeek.com/i.php?page=videos/bsidescharm2017/bsidescharm-2017-t205-the-battle-for-osint-are-you-team-gui-or-team-command-line-tracy-z-maleeff-joe-gray](http://www.irongeek.com/i.php?page=videos/bsidescharm2017/bsidescharm-2017-t205-the-battle-for-osint-are-you-team-gui-or-team-command-line-tracy-z-maleeff-joe-gray)
+* [http://www.irongeek.com/i.php?page=videos/bsidesindy2017/bsides-indy04-osint-for-the-win-tools-techniques-to-maximize-effectiveness-of-your-social-engineering-attacks-joe-gray](http://www.irongeek.com/i.php?page=videos/bsidesindy2017/bsides-indy04-osint-for-the-win-tools-techniques-to-maximize-effectiveness-of-your-social-engineering-attacks-joe-gray)
+* [http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/bsides-nashville-2017-green04-marrying-incident-response-and-threat-intel-within-your-enterprise-joe-gray-and-ben-shipley](http://www.irongeek.com/i.php?page=videos/bsidesnashville2017/bsides-nashville-2017-green04-marrying-incident-response-and-threat-intel-within-your-enterprise-joe-gray-and-ben-shipley)</content><author><name>upgoingstar</name></author><summary type="html">mm</summary></entry><entry><title type="html">How to obtain 100 Facebooks accounts per day through internet searches</title><link href="http://localhost:4000/how-to-obtain-100-facebook-accounts-per-day/" rel="alternate" type="text/html" title="How to obtain 100 Facebooks accounts per day through internet searches" /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/how-to-obtain-100-facebook-accounts-per-day</id><content type="html" xml:base="http://localhost:4000/how-to-obtain-100-facebook-accounts-per-day/">&lt;center&gt;
+&lt;iframe src=&quot;https://www.slideshare.net/slideshow/embed_code/key/7sv05YrrjbudMA&quot; width=&quot;595&quot; height=&quot;485&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen&gt; &lt;/iframe&gt;
+&lt;/center&gt;
+
+# Abstract
+
+&gt; Back in 2016, it was very new the way how the Facebook mobile application implements content through &quot;&quot;Instant articles&quot;&quot;. A user can view content from third parties directly in the Facebook platform without requiring to open the Browser, for instance.  This content can also be shared, saved, opened in browser and so on.
+
+&gt; In this talk, we will share how there Instant articles, and the way they were shared, lead us to the possibility to access Facebook accounts and how through internet searches this became a huge problem! We'll discuss how we identify the issue and how it was tested, reported, fixed, rewarded and also we talk about a new vector attack for further research.
+
+# Speaker Profile
+
+Guillermo [(@bym0m0)](https://twitter.com/bym0m0) is a Cyber Security Penetration Testing Consultant at Deloitte Mexico; he has worked for many Financial Institutions and Public sector for the last 5 years. 
+
+Yael [(@zkvL7)](https://twitter.com/zkvL7) is a Cyber Security Snr. Consultant at Deloitte Mexico and has been working as a Security Specialist in different organizations for the last 4 years. He is really into programming and his laziness has lead into writting some code to automatize certain things at work; nmap and nessus reports for instance [https://github.com/zkvL7](https://github.com/zkvL7), and some other work not ready to see the light.</content><author><name>upgoingstar</name></author><summary type="html">mm</summary></entry><entry><title type="html">Do Tinder Bots Dream of Electric Toys? How Tinder Bots are breaking hearts all over the world, and trashing Tinder’s reputation while they’re at it.</title><link href="http://localhost:4000/do-tinder-bots-dream-of-electric-toys/" rel="alternate" type="text/html" title="Do Tinder Bots Dream of Electric Toys? How Tinder Bots are breaking hearts all over the world, and trashing Tinder’s reputation while they’re at it." /><published>2017-07-07T00:00:00-04:00</published><updated>2017-07-07T00:00:00-04:00</updated><id>http://localhost:4000/do-tinder-bots-dream-of-electric-toys</id><content type="html" xml:base="http://localhost:4000/do-tinder-bots-dream-of-electric-toys/"># Abstract
+
+&gt; Tinder. The Final Frontier. Pick gorgeous (or not so gorgeous) members of your desired sex with the tip of your finger, at the comfort of your sofa, your bed, and let’s admit it - your toilet seat...
+ 
+&gt; Research shows that there are 50 million active users on Tinder, who check their accounts 11 times per day and spend an average of 90 minutes per day on the app. Even celebrities, it seems. [Marie Claire]
+ 
+&gt; In the name of Science, I decided to sacrifice myself and delve into the world of Tinder Dating. At first, I was detecting patterns in photos, in poses, in language and in attitude, all over the world! But suddenly something else showed up on my radar: Bots. And not just one - I was being surrounded. Imagine the heartbreak of matching 7 gorgeous women in a Scandinavian capital, only to discover that not only were they in reality bots, but they actually had an agenda!
+ 
+&gt; In this talk I’ll describe the research, how I came to discover that Bots were not an isolated case, and how I uncovered the pattern behind generating the profiles. I’ll also break down the infrastructure behind the operation, and show who’s behind a campaign that spawned over multiple countries and continents. I’ll give multiple examples, from Tinder as well as from other platforms, of how bots operate under the radar of the site owners and carry out their agenda.
+
+# Speaker Profile
+
+Inbar [(@inbarraz)](https://twitter.com/inbarraz) has been teaching and lecturing about Internet Security and Reverse Engineering for nearly as long as he has been doing that himself. He started programming at the age of 9 on his Dragon 64. At 13 he got a PC, and promptly started Reverse Engineering at the age of 14. Through high-school he was a key figure in the Israeli BBS scene. He spent most of his career in the Internet and Data Security field, and the only reason he's not in jail right now is because he chose the right side of the law at an early age.
+ 
+Inbar specializes in outside-the-box approach to analyzing security and finding vulnerabilities. From late 2011 to late 2014 he was running the Malware and Security Research at Check Point, using his extensive experience of over 20 years in the Internet and Data security fields. He has presented at a number of conferences, including Kaspersky SAS, Hack.lu, CCC, Virus Bulletin, ZeroNights, ShowMeCon, several Law Enforcement events and Check Point events.
+ 
+These days, Inbar is performing fascinating research on Bots and Automated Attacks at PerimeterX, and educating both customers and the public about the subjects.</content><author><name>upgoingstar</name></author><summary type="html">mm</summary></entry></feed>
